@@ -25,7 +25,6 @@ public class TaskRunnable implements Runnable{
 			e.printStackTrace();
 		}
 		System.out.println(name + " is working..."+s);
-		
 	}
 
 }
